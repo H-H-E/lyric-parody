@@ -1,0 +1,56 @@
+{
+  "original_song": "Excavator",
+  "artist": "Don Toliver",
+  "target_topic": "Burgers / Fast Food",
+  "date": "2026-04-02",
+  "analysis": {
+    "original_rhyme_scheme": "Chorus: AABB (vacation/registration, destination/estimation). Internal -ation rhymes in original lines 3+4 (destination/estimation). Bridge: heavy/excavator (internal -ay/-or slant), escalator/respirator (internal slant). Pre-chorus: AABB (smashed-crashin, go-don't know, more-show). Verses: loose narrative, minimal end rhymes.",
+    "syllable_pattern_chorus": [10, 8, 8, 8],
+    "syllable_pattern_prechorus": [9, 11, 10, 11],
+    "syllable_pattern_verse": [8, 8, 6, 6],
+    "meter": "trap flow, triplet-adjacent, laid-back hypnotic cadence, lines 3+4 of chorus share internal rhyme (-ation/-ation)",
+    "structure": ["chorus", "prechorus", "verse1", "prechorus", "chorus", "bridge", "verse2", "chorus", "outro"],
+    "tone": "drunk/confident/hypnotic, trap ad-libs, casual",
+    "key_phrases": ["excavator", "escalator", "certified", "registration"],
+    "original_hook": "Man this shit gettin' so damn heavy in the back, gotta pick it with an excavator"
+  },
+  "original_lyrics": "[Chorus]\nI'm the type to go and bring her home to take her on vacation (Hoo)\nI been certified my whole life, come check my registration (Certified)\nYeah, I'm drunk, but I ain't drivin', yes, and I know my destination\nI got a stick in here and the drum in the background, please don't estimate 'em (Ah, ah)\nMan this shit gettin' so damn heavy in the back, gotta pick it with an excavator (Woo)\nGot that money goin' way to the top floor, goin' up on an escalator (Woo)\nShawty poppin' shrooms in the back room, she gon' need her a respirator\nI will kick you out my house right now, I call her to detonate",
+  "parody_lyrics": {
+    "chorus": [
+      "I'm the type to pull up, grab a double tray (tray)",
+      "I'm certified, yeah, check my bill (bill)",
+      "Yeah, I'm orderin' large, yeah, I know my away (away)",
+      "Cheese drippin', yeah, it's all on the grill (grill)"
+    ],
+    "chorus_full": "I'm the type to pull up, grab a double tray (tray)\nI'm certified, yeah, check my bill (bill)\nYeah, I'm orderin' large, yeah, I know my away (away)\nCheese drippin', yeah, it's all on the grill (grill)\nSauce overflowin', bun is fallin' from the tray (tray)\nGot my whole order lookin' like a hot mess (mess)\nCheese is meltin' in the back, it's a hot mess (mess)\nCancel my order, I can't deal with this",
+    "prechorus": [
+      "Flippin' all these patties, run the menu solo (9)",
+      "I check the menu twice 'cause my stomach gettin' full (11)",
+      "Yeah, the burgers callin', yeah, I answer all (10)",
+      "You can text my phone, lil' server, or you can meet me at the hall (11)"
+    ],
+    "verse1": [
+      "Greasy napkin, yeah, my fingers smell so well (8, A: smell/well)",
+      "Thirty burger plain, throw that on the tray (8, A: tray/away)",
+      "They want me at the window (6)",
+      "Yeah, I got the rage (6)"
+    ],
+    "verse2": [
+      "Wanna taste every burger in the state (8)",
+      "Before we even sat down, she gave me a taste (10)",
+      "Yeah (Yeah), bro got the fire, the grill talk to me nice, I break it up (10)",
+      "Yeah, throw all the ones in the air, told shawty, \"Come here, come scoop it up\" (11)",
+      "Yeah, I'm the type to put cheese on your face (6)",
+      "Yeah, I'm really goin' ham, got the grill in the (9)",
+      "Bought a brand new truck, ride it like a (8)",
+      "Shawty goin' up at the belvedere (8)",
+      "Oh God, I can't see through the grease (8)",
+      "Oh my, what you did last year? (7)",
+      "Did you clean your tray? (6)",
+      "I seen it dripped right off the tray (7)",
+      "My shake is spinnin' like a windmill (8)",
+      "Ridin' down my block, I'm watchin' for my deer (10)"
+    ]
+  },
+  "notes": "Rhyme scheme: chorus AABB (tray/away, bill/grill). Bridge: tray/mess/mess (internal -ay in original preserved as -ay). Verse structure: loose narrative with some internal rhymes. The 'heavy/excavator' and 'escalator' wordplay becomes 'overflowin'/'frain'' and 'grill/grill'."
+}
