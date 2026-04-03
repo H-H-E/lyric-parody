@@ -1,0 +1,26 @@
+{
+  "original_song": "Excavator",
+  "artist": "Don Toliver",
+  "target_topic": "Better Call Saul Seasons 1-4",
+  "date": "2026-04-02",
+  "analysis": {
+    "rhyme_scheme": "Chorus AABB (billboard/credentials, venue/settle), Pre-chorus AABB (clients/clients, go/more)",
+    "meter": "trap cadence, triplet-adjacent, 8-10 syllables per line",
+    "structure": ["chorus", "prechorus", "verse1", "prechorus", "chorus", "bridge", "verse2", "chorus", "outro"],
+    "tone": "confident, hypnotic, lawyer-hustle energy",
+    "key_phrases": ["billboard lawyer", "check my credentials", "Better Call Saul", "escalator", "schemin' and deceivin'"],
+    "thematic_elements": ["Jimmy/Saul transformation", "billboard commercials", "Chuck rivalry", "Mike's criminal work", "Salamanca cartel", "Kim partnership", "con-man persona"]
+  },
+  "parody_lyrics": {
+    "chorus": [
+      "I'm the type to put your case on a billboard (billboard)",
+      "I'm a lawyer, yeah, come check my credentials (credentials)",
+      "Yeah, I do commercials, and I know my venue (venue)",
+      "Jimmy or Saul, yeah, they both will settle (settle)",
+      "Man this case is getting so damn heavy on my back, gotta deal with it like Saul (Saul)",
+      "Got my clients going straight to the top floor, going up on a escalator",
+      "Skyler wants me gone, she tosses me like a literata",
+      "I will kick you out my office, I consult her to negotiate"
+    ]
+  }
+}
