@@ -1,0 +1,6 @@
+{
+  "name": "lyric-parody",
+  "version": "1.0.0",
+  "description": "Fetch song lyrics and generate topic parodies preserving rhyme scheme, meter, and structure",
+  "root": "SKILL.md"
+}
