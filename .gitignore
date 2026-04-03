@@ -1,5 +1,5 @@
-# Outputs (parody results) — uncomment if you want to publish them:
-# outputs/
+# Outputs — track parody results in git:
+outputs/
 
 # Keep these private:
 # .env
